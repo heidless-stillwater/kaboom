@@ -7,3 +7,4 @@ bin/
 desktop/
 .env
 .vscode
+.vercel
